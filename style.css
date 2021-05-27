@@ -1,0 +1,40 @@
+
+    body{
+      background-color:lightblue;
+      font-family:sans-serif;
+      
+    }
+    h1{
+      font-size:300%;
+      text-align:center;
+      color:white;
+      font-style:italic;
+      font-weight:bold;
+      margin-left:10%;
+      margin-right:10%;
+      padding:5%;
+      width:auto;
+
+    }
+    p{
+      margin-left:10%;
+      margin-right:10%;
+      padding:5%;
+      font-size:250%;
+      text-align:center;
+      color:yellow;
+      font-style:italic;
+      width:auto;
+    }
+    #eagle-pic
+    {
+      width:75%;
+      float:center;
+      margin-left:10%;
+      margin-right:10%;
+      margin-top:5%;
+      margin-bottom:10%;
+      border:15px ridge silver;
+      
+    }
+   
