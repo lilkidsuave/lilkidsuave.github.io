@@ -24,11 +24,8 @@ header > h1 {
   text-align: center;
   position:relative;
   margin: 20px auto;
+}
 
-}
-#copyright{
-  color: white;
-}
 .score-board{
   margin: 20px auto;
   border: 3px solid white;
@@ -158,4 +155,7 @@ header > h1 {
   transition: all 0.5s ease;
 
 
+}
+#copyright{
+  color: white;
 }
