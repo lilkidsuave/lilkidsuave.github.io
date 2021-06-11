@@ -18,7 +18,7 @@ header > h1 {
   font-family: Asap, sans-serif;
 
 }
-.link,#copyright {
+.link{
   color: white;
   width:100%;
   bottom: 0px;
@@ -26,6 +26,14 @@ header > h1 {
   position:relative;
   margin: 20px auto;
 
+}
+#copyright{
+  color: white;
+  width:100%;
+  bottom: 0px;
+  text-align: center;
+  position:relative;
+  margin: 20px auto;
 }
 .score-board{
   margin: 20px auto;
