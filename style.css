@@ -19,7 +19,6 @@ header > h1 {
 
 }
 .link{
-  color: white;
   width:100%;
   bottom: 0px;
   text-align: center;
@@ -29,11 +28,6 @@ header > h1 {
 }
 #copyright{
   color: white;
-  width:100%;
-  bottom: 0px;
-  text-align: center;
-  position:relative;
-  margin: 20px auto;
 }
 .score-board{
   margin: 20px auto;
